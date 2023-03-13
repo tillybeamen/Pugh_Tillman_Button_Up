@@ -1,0 +1,30 @@
+#container {
+    width: 960px;
+}
+button {
+    margin:10px 60px;
+    
+}
+.search {
+    border-color: rgb(20, 234, 174);
+    border-radius: 50px;
+    color: rgb(20, 234, 174);
+    width: 130px;
+    height: 25px;
+}
+.plus {
+    font-size: 150%;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(20, 234, 174);
+    border-color: rgb(20, 234, 174);
+}
+.account {
+    color: white;
+    background-color: rgb(68, 115, 234);
+    height: 35px;
+    width: 160px;
+    box-shadow: 3px 3px black;
+}
